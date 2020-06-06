@@ -1,0 +1,2 @@
+# Notebook
+Ćwiczenia z python
